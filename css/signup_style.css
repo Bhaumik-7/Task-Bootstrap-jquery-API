@@ -1,0 +1,35 @@
+body{
+    background-color: #f0e3ca;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login_block{
+    background-color: #1b1a17;
+    width:35vw;
+    padding: 20px;
+    color: #fff;
+    border-radius: 3%;
+    /* box-shadow: 5px 10px #ff8303; */
+    box-shadow: 3px 3px 10px 4px #ff8303;
+    font-family: 'Acme', sans-serif;
+
+}
+.heading{
+    font-family: 'Pattaya', sans-serif;
+    margin-bottom: 20px;
+}
+.input_box{
+    margin-top: 10px;
+}
+.login_btn{
+    margin-top: 20px;
+    display: block;
+    width: 100%;
+}
+
+.instruction{
+    margin-top: 15px;
+}
